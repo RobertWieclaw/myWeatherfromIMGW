@@ -1,2 +1,2 @@
 # myWeatherfromINGW
-My first small project
+My first small project. Use only latin small letter.
